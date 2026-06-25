@@ -10,7 +10,9 @@ Las dependencias se pueden instalar utilzando el siguiente comando:
 ```bash
 pip install -r ./requirements.txt
 ```
+
 El archivo report.html es un reporte generado por la libreria ydata_profiling.
+
 -------------------------------------------------------------------
 
 # Introducción a la Ciencia de Datos - Trabajo 2
